@@ -1,0 +1,6 @@
+const accountid=14453
+let accountemail="someone@gmail.com"
+var accountpassword="12345"
+accountcity="jaipur"
+// accountid=12345
+console.log(accountid);
