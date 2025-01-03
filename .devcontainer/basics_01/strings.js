@@ -13,3 +13,14 @@ const newstring=n.substring(0,4)//cannot take negative values
 console.log(newstring)
 const anotherstring=n.slice(0,2)
 console.log(anotherstring)
+
+const obj="   car   "
+console.log(obj.trim())
+console.log(obj)
+
+const url="https//:kirti!bansal"
+console.log(url.replace("!","-"))
+console.log(url.includes("me"))
+
+const ob="my name is apple"
+console.log(ob.split(' '))//creates an array
