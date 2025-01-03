@@ -3,4 +3,13 @@ let accountemail="someone@gmail.com"
 var accountpassword="12345"
 accountcity="jaipur"
 // accountid=12345
-console.log(accountid);
+// console.log(accountid);
+accountemail="kirti@gmail.com"
+accountpassword="abcd"
+accountcity="agra"
+let accountstate;
+
+console.table([accountemail,accountid,accountpassword,accountcity,accountstate]);
+/*
+prefer not to use var coz of block and functional scope
+*/
