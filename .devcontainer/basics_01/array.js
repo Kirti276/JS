@@ -27,6 +27,6 @@ console.log(a5)
 
 //splice
 const a6=[1,2,3,34,5,6,7,9,7,9,0]
-a7=a6.splice(1,3) // chnages the original array and also includes 3rd index 
+a7=a6.splice(1,3) //   includes 3rd index and removes the spliced range from the original array.
 console.log(a6)
 console.log(a7)

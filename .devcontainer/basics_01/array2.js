@@ -1,5 +1,5 @@
 const a1=["mango","apple","banana"]
-const a2=["tomato","brinjal"]
+const a2=["tomato","brinjal= kirti"]
 const a3=["litchi","guava"]
 // a1.push(a2) // it does not merge two arrays it adds the socnd array as an element to the first array
 // console.log(a1)
